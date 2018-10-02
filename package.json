@@ -9,5 +9,11 @@
   "scripts": {
     "start": "node index.js",
     "prestart": "tsc"
+  },
+  "dependencies": {
+    "eslint": "^5.6.1"
+  },
+  "devDependencies": {
+    "tsc-watch": "^1.0.29"
   }
 }
