@@ -1,7 +1,7 @@
 {
   "name": "TYPECHAIN",
   "version": "1.0.0",
-  "description": "Learning Typescript by makin a Blockchain with it",
+  "description": "Learning Typescript by making a Blockchain with it",
   "main": "index.js",
   "repository": "https://github.com/wooqii/TYPECHAIN",
   "author": "DONGWOOK LEE <cpawookie@gmail.com>",
