@@ -12,6 +12,7 @@
   "dependencies": {
     "crypto-js": "^3.1.9-1",
     "eslint": "^5.6.1",
+    "ts-watch": "^1.0.8",
     "typescript": "^3.1.1"
   },
   "devDependencies": {
